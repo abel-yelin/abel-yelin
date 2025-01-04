@@ -68,8 +68,8 @@
 * <a href='https://www.luolink.com/article/global-product-words-guide' target='_blank'>产品出海英语必修</a> - 2024-06-30
 * <a href='https://www.luolink.com/article/how-to-waitlist' target='_blank'>如何正确的使用waitlist</a> - 2024-05-08
 * <a href='https://www.luolink.com/article/nav-bookmark-think' target='_blank'>导航站产品形态分析</a> - 2024-04-14
-* <a href='https://tw93.fun/2024-03-03/simple.html' target='_blank'>我的极简生活经验</a> - 2024-03-03
-* <a href='https://tw93.fun/2024-02-13/my-2023.html' target='_blank'>2023年总结 - 随心而行</a> - 2024-02-13
+* <a href='https://www.luolink.com/article/10-chinish-words' target='_blank'>中国味英语出海大忌</a> - 2024-03-03
+* <a href='https://www.luolink.com/article/ku-xin-jing-ying-de-sui-bian' target='_blank'>苦心经营的随便——汪曾祺</a> - 2024-02-13
 <!-- blog ends -->
 
 </td>
@@ -79,8 +79,8 @@
 
 <!-- weekly starts -->
 
-* <a href='https://weekly.tw93.fun/posts/193-%E7%8C%AB%E7%9A%84%E9%99%AA%E4%BC%B4/' target='_blank'>第193期 - 猫的陪伴</a> - 2024-09-09
-* <a href='https://weekly.tw93.fun/posts/192-%E9%9D%92%E7%9A%AE%E6%A9%98%E5%AD%90/' target='_blank'>第192期 - 青皮橘子</a> - 2024-09-02
+* <a href='https://www.luolink.com/article/16f298ea-4c9a-80f2-a595-fe1e9f73c7e9' target='_blank'>建议独立开发都把杠杆倍率拉满</a> - 2024-09-09
+* <a href='https://www.luolink.com/article/seo-submit-list' target='_blank'>产品出海SEO第一步是什么？当然是收录啦</a> - 2024-09-02
 * <a href='https://weekly.tw93.fun/posts/191-%E4%B8%80%E7%BB%BF%E5%B1%B1%E5%A2%99/' target='_blank'>第191期 - 一绿山墙</a> - 2024-08-26
 * <a href='https://weekly.tw93.fun/posts/190-%E8%9E%83%E8%9F%B9%E8%9E%83%E8%9F%B9/' target='_blank'>第190期 - 螃蟹螃蟹</a> - 2024-08-19
 * <a href='https://weekly.tw93.fun/posts/189-%E6%97%A0%E5%8D%B0%E8%89%AF%E5%93%81/' target='_blank'>第189期 - 无印良品</a> - 2024-08-12
